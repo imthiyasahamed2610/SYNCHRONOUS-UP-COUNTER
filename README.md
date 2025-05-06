@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/25b51b7e-24e6-4095-afaa-8b84addf1fee)### EXP -11 SYNCHRONOUS-UP-COUNTER
-### Developed by:imthiyas ahamed.m RegisterNumber: 212224050012
+
+### Developed by:imthiyas ahamed.m 
+RegisterNumber: 212224050012
 
 ### **AIM:**
 

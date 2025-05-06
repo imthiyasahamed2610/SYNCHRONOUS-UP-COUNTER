@@ -1,5 +1,5 @@
-### EXP -11 SYNCHRONOUS-UP-COUNTER
-### Developed by:Kanishka.V RegisterNumber: 24003362
+![image](https://github.com/user-attachments/assets/25b51b7e-24e6-4095-afaa-8b84addf1fee)### EXP -11 SYNCHRONOUS-UP-COUNTER
+### Developed by:imthiyas ahamed.m RegisterNumber: 212224050012
 
 ### **AIM:**
 
@@ -39,20 +39,24 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 ### 5.For different input combinations generate the timing diagram.
 
 ### **PROGRAM:**
-![exp 11 code ](https://github.com/user-attachments/assets/b7792a2a-3945-4cf4-aabc-e65106efc10a)
+![Screenshot 2025-05-06 103719](https://github.com/user-attachments/assets/184fc24c-bff0-4b54-9bdb-68d51deb9a67)
+
 
 
 **RTL LOGIC UP COUNTER:**
-![exp 11 ld](https://github.com/user-attachments/assets/0f918126-19e9-446b-b295-f610ee6ab8f5)
+![Screenshot 2025-05-06 103742](https://github.com/user-attachments/assets/06d558d7-6575-49c4-8f37-793928cb312a)
+
+
 
 **TIMING DIAGRAM FOR IP COUNTER:**
-![exp 11 wf](https://github.com/user-attachments/assets/eee93ab5-e289-4000-b578-58a80386cacf)
+![Screenshot 2025-05-06 104128](https://github.com/user-attachments/assets/aba40307-0087-4022-af7e-d496c4cf084d)
 
 **TRUTH TABLE:**
 
 
 
-![tt ](https://github.com/user-attachments/assets/6c371234-3074-4892-a432-d33c26bd8e05)
+![Screenshot 2025-05-06 104002](https://github.com/user-attachments/assets/5a4d60f8-9b52-4227-bd42-f583a450d2df)
+
 
 **RESULTS:**
 Thus the given 4 bit synchronous up counter are implimented using and validate functionality are verified using verilog programming.

@@ -1,6 +1,8 @@
 
-### Developed by:imthiyas ahamed.m 
+ Developed by:imthiyas ahamed.m 
 RegisterNumber: 212224050012
+
+IMPLEMENTATION OF SYNCHRONOUS COUNTERS USING VERILOG HDL
 
 ### **AIM:**
 
